@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Leen</h1>
 <h3 align="left">A passionate developer from Saudi Arabia</h3>
+<!-- <img align="right" src="https://i.pinimg.com/originals/c9/18/69/c91869eaf8d12fb097ab060e891eb10a.gif" alt="coding"  width="400"  /> -->
 
-<img align="right" src="https://i.pinimg.com/originals/c9/18/69/c91869eaf8d12fb097ab060e891eb10a.gif" alt="coding"  width="400"  />
 <ul>
   <li>🔭 I like to work with on React.js, Redux and Typescript 💻.</li>
   <li>🌱 Certified on Fullstack Development by Integrify</li>
