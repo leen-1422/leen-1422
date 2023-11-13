@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Leen</h1>
-<h3 align="center">A passionate developer from Saudi Arabia</h3>
+<h1 align="left">Hi 👋, I'm Leen</h1>
+<h3 align="left">A passionate developer from Saudi Arabia</h3>
 
 <img align="right" src="https://i.pinimg.com/originals/c9/18/69/c91869eaf8d12fb097ab060e891eb10a.gif" alt="coding"  width="400"  />
 <ul>
@@ -11,12 +11,12 @@
   <li>💬 I speak English and Arabic.</li>
   <li>⚡ Little about me: I love spending time with my family, dancing💃, weight lifting 🏋🏻, music 🎵 and reading books 📚.</li>
 </ul>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/leen-alsultan" target="blank"><img align="center" src="https://i.pinimg.com/564x/97/31/6f/97316ff0c4da0bea020e63d16075e987.jpg" alt="leen-alsultan" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools: </h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" > 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
