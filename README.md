@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Leen</h1>
 <h3 align="center">A passionate developer from Saudi Arabia</h3>
-
+- 🔭 I like to work with on React.js, Redux and Typescript 💻.
+- 🌱 Certified on Fullstack Development by Integrify
+- 🤝 I like to work in a team, I am fearless and love to learn new technology.
+- 🥅 2023 Goals: finding my first role as a Junior Full Stack Developer.
+- 🤔 I’m looking forward to keep practicing what I have learnt so far.
+- 💬 I speak English and Arabic.
+- ⚡ Little about me: I love spending time with my family, dancing💃, weight lifting 🏋🏻, music 🎵 and reading books 📚.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/leen-alsultan" target="blank">
