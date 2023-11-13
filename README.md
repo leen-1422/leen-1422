@@ -12,7 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/leen-alsultan" target="blank">
-<i class="fa-brands fa-linkedin" style="color: #2675fd;"></i>
+  
+<i class="fa-brands fa-linkedin" style="color: #2675fd;"></i></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
